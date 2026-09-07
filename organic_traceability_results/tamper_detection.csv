@@ -1,0 +1,10 @@
+attack,method,detection_rate
+payload_mod,centralized,0.0
+payload_mod,event_hash,1.0
+payload_mod,quorum_chain,1.0
+deletion,centralized,0.0
+deletion,event_hash,0.0
+deletion,quorum_chain,1.0
+reordering,centralized,0.0
+reordering,event_hash,0.0
+reordering,quorum_chain,1.0
